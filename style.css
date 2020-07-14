@@ -1,0 +1,36 @@
+/*-------------------------------------tags-------------------------------------*/
+body{
+  background-color: #f5f0e3;
+}
+hr{
+  border-style: dotted none none none;
+  border-color: #522d5b;
+  border-width: 10px;
+  width: 10%;
+}
+h1{
+  font-size: 50px;
+  color: #192965;
+}
+h3{
+  font-size: 35px;
+  color: #0c7b93;
+}
+p{
+  font-size: 20px;
+  color: #142850;
+}
+a{
+  font-size: 30px;
+  color: #005082;
+}
+table, th, td{
+  border-collapse:collapse;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+}
+/*-------------------------------------selectors-------------------------------------*/
+.links:hover{
+  background-color: #ffbd69;
+}
